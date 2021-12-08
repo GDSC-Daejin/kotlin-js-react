@@ -1,0 +1,24 @@
+{
+  "name": "KotlinReact",
+  "version": "1.0",
+  "private": true,
+  "workspaces": [
+    "packages/KotlinReact",
+    "packages_imported/kotlin/1.5.31",
+    "packages_imported/kotlin-react/17.0.2-pre.264-kotlin-1.5.31",
+    "packages_imported/kotlin-extensions/1.0.1-pre.264-kotlin-1.5.31",
+    "packages_imported/kotlin-csstype/3.0.9-pre.264-kotlin-1.5.31",
+    "packages_imported/kotlin-react-dom/17.0.2-pre.264-kotlin-1.5.31",
+    "packages_imported/kotlinx-html-js/0.7.3",
+    "packages_imported/kotlin-styled/5.3.3-pre.264-kotlin-1.5.31",
+    "packages_imported/kotlin-css/1.0.0-pre.264-kotlin-1.5.31",
+    "packages_imported/kotlin-test-js-runner/1.5.31",
+    "packages_imported/kotlin-test/1.5.31"
+  ],
+  "resolutions": {},
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
